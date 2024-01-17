@@ -47,3 +47,16 @@ footer
 }
 
 
+
+.note
+{
+  padding: 20px;
+  background-color: rgb(172, 233, 31);
+  width: 20%;
+  margin: 20px;
+  
+}
+
+.note h1{
+  color: #180b0b;
+}
